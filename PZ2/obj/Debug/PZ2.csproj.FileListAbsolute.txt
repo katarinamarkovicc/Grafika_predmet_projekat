@@ -1,0 +1,182 @@
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\App.g.cs
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\bin\Debug\PZ2.exe.config
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\bin\Debug\PZ2.exe
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\bin\Debug\PZ2.pdb
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\MainWindow.baml
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2.g.resources
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2.exe
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2.pdb
+D:\Projekti2020-2021\GrafikaPZ2\PZ2\PZ2\obj\Debug\PZ2.csprojAssemblyReference.cache
+C:\Users\juzni\Desktop\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\juzni\Desktop\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\juzni\Desktop\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2.csprojAssemblyReference.cache
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\juzni\Desktop\PZ2\PZ2\obj\Debug\PZ2.pdb
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe.config
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.pdb
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\App.g.cs
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\MainWindow.baml
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.g.resources
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.exe
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.pdb
+D:\4. GODINA\GRAFIKA\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\AttributesWindow.g.cs
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\EditWindow.g.cs
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\ImageAttributes.g.cs
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\ShortcutsInfo.g.cs
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\AttributesWindow.baml
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\EditWindow.baml
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\ImageAttributes.baml
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\ShortcutsInfo.baml
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\Misic\Downloads\New WinRAR ZIP archive (3)\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\AttributesWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\EditWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\AttributesWindow.baml
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\EditWindow.baml
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\GrafikaPZ2-main\PZ2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\AttributesWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\EditWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\AttributesWindow.baml
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\EditWindow.baml
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\AttributesWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\EditWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\AttributesWindow.baml
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\EditWindow.baml
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\katar\OneDrive\Radna površina\proba\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.pdb
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.exe.config
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.exe
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\bin\Debug\PZ2.pdb
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\AttributesWindow.g.cs
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\EditWindow.g.cs
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\App.g.cs
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\AttributesWindow.baml
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\EditWindow.baml
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\MainWindow.baml
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.g.resources
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.exe
+F:\4. godina\2. semestar\grafika\grafika projekat PZ1\grafikaProjekat\PZ2\PZ2\obj\Debug\PZ2.pdb
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\PZ2.exe.config
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\PZ2.exe
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\PZ2.pdb
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\AttributesWindow.g.cs
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\EditWindow.g.cs
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\MainWindow.g.cs
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\App.g.cs
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\AttributesWindow.baml
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\EditWindow.baml
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\MainWindow.baml
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.g.resources
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.exe
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.pdb
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\4. godina\2. semestar\grafika\PZ1\PZ2\obj\Debug\PZ2.csproj.CopyComplete

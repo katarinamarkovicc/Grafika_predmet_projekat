@@ -1,0 +1,70 @@
+﻿<Window x:Class="PZ2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:PZ2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="960" Width="1280">
+    <Window.CommandBindings>
+        <CommandBinding Command="local:RoutedCommands.SelectEllipse" CanExecute="SelectEllipse_CanExecute" Executed="SelectEllipse_Executed"></CommandBinding>
+        <CommandBinding Command="local:RoutedCommands.SelectPolygon" CanExecute="SelectPolygon_CanExecute" Executed="SelectPolygon_Executed"></CommandBinding>
+        <CommandBinding Command="local:RoutedCommands.SelectText" CanExecute="SelectText_CanExecute" Executed="SelectText_Executed"></CommandBinding>
+        <CommandBinding Command="local:RoutedCommands.Undo" CanExecute="Undo_CanExecute" Executed="Undo_Executed"></CommandBinding>
+        <CommandBinding Command="local:RoutedCommands.Redo" CanExecute="Redo_CanExecute" Executed="Redo_Executed"></CommandBinding>
+    </Window.CommandBindings>
+  
+        
+    <DockPanel>
+        <StackPanel Margin="0,5,0,0" Orientation="Horizontal" DockPanel.Dock="Top" Background="RosyBrown">
+            <Button x:Name="ElipseBtn" Content="Ellipse" Width="86"  Margin="3" Command="local:RoutedCommands.SelectEllipse" Background="Yellow"/>
+            <Button x:Name="PolygonBtn" Content="Polygon" Width="86" Margin="3" Command="local:RoutedCommands.SelectPolygon" Background="Yellow"/>
+            <Button x:Name="TextBtn" Content="Text" Width="86" Margin="3" Command="local:RoutedCommands.SelectText" Background="Yellow"/>
+            <Button x:Name="UndoBtn" Content="Undo" Width="86" Margin="3" Command="local:RoutedCommands.Undo"   Background="Yellow"/>
+            <Button x:Name="RedoBtn" Content="Redo" Width="86" Margin="3" Command="local:RoutedCommands.Redo" Background="Yellow"/>
+            <Button x:Name="ClearBtn" Content="Clear" Width="86"  Margin="3" Click="ClearBtn_Click" Background="Yellow"/>
+            <Button x:Name="Unselect" Content="Unselect" Width="86"  Margin="3" Click="Unselect_Click" Background="Yellow"/>
+            <Button x:Name="ScreenShot" Content="Take a picture" Width="86"  Margin="3" Click="ScreenShot_Click" Background="Yellow"/>
+            <CheckBox x:Name="checkInactive" Content="Inactive network" VerticalAlignment="Center" Margin="5,8,30,7.4" IsChecked="True" Checked="checkInactive_Checked" Unchecked="checkInactive_Unchecked"/>
+            <CheckBox x:Name="checkLineColor" Content="Change line color based on resistance" VerticalAlignment="Center" Margin="10,0" IsChecked="False" IsEnabled="True" Checked="checkLineColor_Checked" Unchecked="checkLineColor_Unchecked"/>
+            <Menu x:Name="Menu"  Width="100" Height="35" Canvas.Left="563" Canvas.Top="376" Background="RosyBrown">
+                <MenuItem Header="Change Colour">
+                    <xctk:ColorPicker Name="ClrPcker_Background" SelectedColorChanged="ClrPcker_Background_SelectedColorChanged"></xctk:ColorPicker>
+                </MenuItem>
+                <MenuItem Header="Image">
+                    <Button x:Name="buttonZaSliku" Click="Button_Click">Choose a image</Button>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+        <Canvas DockPanel.Dock="Bottom" Height="100" Background="PeachPuff">
+            <Label x:Name="Substation" Content="Substation - " Canvas.Left="10" Height="23" Width="78" Canvas.Top="2"/>
+            <Label x:Name="Switch" Content="Switch - " Canvas.Left="10" Height="23" Width="68" Canvas.Top="21"/>
+            <Label x:Name="Node" Content="Node - " Canvas.Left="10" Height="23" Width="68" Canvas.Top="41"/>
+            <Label x:Name="Line" Content="Line - " Canvas.Left="10" Height="23" Width="68" Canvas.Top="64"/>
+            
+            <Ellipse Fill="Green" Height="11" Canvas.Left="81" Stroke="Black" Canvas.Top="11" Width="12" RenderTransformOrigin="0.5,0.5"/>
+
+            <Ellipse Fill="Red" Height="11" Canvas.Left="59" Stroke="Black" Canvas.Top="30" Width="12" RenderTransformOrigin="0.194,0.606"/>
+
+
+            <Ellipse Fill="Blue" Height="11" Canvas.Left="54" Stroke="Black" Canvas.Top="50" Width="12" RenderTransformOrigin="0.5,0.5"/>
+
+
+            <Rectangle Fill="Black" Height="2" Canvas.Left="47" Stroke="Black" Width="21" Canvas.Top="78"/>
+            <Button x:Name="OpenFileBtn" Content="Load Xml" Canvas.Left="117" Canvas.Top="60" Width="75" Click="OpenFileBtn_Click"/>
+        </Canvas>
+        <Slider x:Name="slider" Minimum=".1" Maximum="10" Value="1" DockPanel.Dock="Top"/>
+        <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto" MouseLeftButtonDown="PaintCanvas_MouseLeftButtonDown" PreviewMouseRightButtonDown="PaintCanvas_PreviewMouseRightButtonDown" Focusable="False">
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Canvas Width="5000" Height="5000"  Name="GridCanvas" Background="PeachPuff">
+                    <Canvas.LayoutTransform>
+                        <ScaleTransform ScaleX="{Binding ElementName=slider, Path=Value}"
+                                ScaleY="{Binding ElementName=slider, Path=Value}"/>
+                    </Canvas.LayoutTransform>
+
+                </Canvas>
+            </Border>
+        </ScrollViewer>
+    </DockPanel>
+</Window>
